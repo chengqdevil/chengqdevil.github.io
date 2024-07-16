@@ -1,6 +1,8 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
+    "title":"Chenicee",
+    "subTitle":"陈国琦的博客空间~",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "homeUrl":"https://blog.chengq.eu.org",
+    "startSite":"12/24/2023"
 }
