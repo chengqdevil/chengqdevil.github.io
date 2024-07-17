@@ -4,5 +4,10 @@
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
     "GMEEK_VERSION":"last",
     "homeUrl":"https://blog.chengq.eu.org",
-    "startSite":"12/24/2023"
+    "startSite":"12/24/2023",
+    "onePageListNum":20,
+    "i18n":"CN",
+    "UTC":8,
+    "showPostSource":0,
+    "needComment":0
 }
